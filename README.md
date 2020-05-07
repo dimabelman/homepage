@@ -16,7 +16,7 @@
 #### EXPERIENCE
 
 <small>2017</small>  
-Became 45th president of the United States 
+Became 45th president of the United States
 
 <small>2016</small>  
 Won election race with 77 votes more than Clinton, yippe-kee-yay!
@@ -34,7 +34,7 @@ Started Trump University with Michael Sexton and Jonathan Spitalny: no grades, c
 Acquired the former Hotel Delmonico, which was renovated and reopened in 2004 as the Trump Park Avenue. I sure do like my surname!
 
 <small>2001</small>  
-Completed Trump World Tower and joined the Democratic Party 
+Completed Trump World Tower and joined the Democratic Party
 
 <small>1999</small>  
 Started buying golf courses. They are very cheap, I have 18 of them now in USA and abroad! Also switched to the Reform Party that year
@@ -43,16 +43,16 @@ Started buying golf courses. They are very cheap, I have 18 of them now in USA a
 Began a multi-building development along the Hudson River, which was named Trump Place. Me and the other investors sold our shares for $1.8 billion and that was then the biggest residential sale in the history of New York City
 
 <small>1996</small>  
-Acquired the Bank of Manhattan Trust Building, which was a vacant seventy-one story skyscraper on Wall Street. After an extensive renovation, the high-rise was renamed the Trump Building 
+Acquired the Bank of Manhattan Trust Building, which was a vacant seventy-one story skyscraper on Wall Street. After an extensive renovation, the high-rise was renamed the Trump Building
 
 <small>1994</small>  
 Refurbished the Gulf and Western Building on Columbus Circle, turned it into a 44-story luxury property known as Trump International Hotel and Tower
 
 <small>1989 ― 1992</small>  
-Ran a second hand airline called Trump Shuttle. What a waste of money, I had to sell it, now it is American Airlines Shuttle, btw 
+Ran a second hand airline called Trump Shuttle. What a waste of money, I had to sell it, now it is American Airlines Shuttle, btw
 
 <small>1989, 1990</small>  
-Learned about Tour de France and decided to hold my very own Tour de Trump. Is America not great enough for that cycling competition? 
+Learned about Tour de France and decided to hold my very own Tour de Trump. Is America not great enough for that cycling competition?
 
 <small>1988</small>  
 Acquired the Plaza Hotel in Manhattan for $407 million, invested $50 million to restore the building and boosted it  from three-star to four-star hotel (I called it "the Mona Lisa" and sold it for a lot of cash in 1995)
@@ -64,7 +64,7 @@ Registered as a Republican
 I bought the Mar-a-Lago estate in Palm Beach and turned it into a private club.You can join if you pay $200K initiation fee (and there is another annual fee for members, it is very expensive to be rich). That year I also opened a casino called Trump Castle. My wife Ivana became a manager, because she is another Trump!
 
 <small>1983</small>  
-I purchased New Jersey Generals, an American football team. I changed team's play schedule and filed an antitrust lawsuit against United States Football League, so NJG are not doing so good now, but back then they were great! 
+I purchased New Jersey Generals, an American football team. I changed team's play schedule and filed an antitrust lawsuit against United States Football League, so NJG are not doing so good now, but back then they were great!
 
 <small>1980</small>  
 Started developing the Trump Tower skyscraper in Manhattan, I payed a crew of undocumented Polish workers to demolish the historic Bonwit Teller store, including art deco features. All this to make architectural critic Paul Goldberger say in 1983 that the tower's atrium is "the most pleasant interior public space to be completed in New York in some years". At the same time I also started a repair job on the Wollman Rink in Central Park and completed the work in three months for $1.95 million, which was $775,000 less than the initial budget!
@@ -208,9 +208,9 @@ Enrolled in the New York Military Academy, a private boarding school, after my p
 #### LANGUAGES
 🇺🇸 ENGLISH 🇷🇺 РУССКИЙ
 
-#### SKILLS 
+#### SKILLS
 
-NEGOTIATING COUNTING REMODELING WRITING ACING SINGING REPORTING INCORPORATING SELLING ADVERTISING HOSTING COMPETING TWITTING PARENTING GAMBLING DATING SUING ORGANIZING FUNDING DEBATING ADVISING PRESBYTERIANING 
+NEGOTIATING COUNTING REMODELING WRITING ACING SINGING REPORTING INCORPORATING SELLING ADVERTISING HOSTING COMPETING TWITTING PARENTING GAMBLING DATING SUING ORGANIZING FUNDING DEBATING ADVISING PRESBYTERIANING
 
 #### CHARACTER  
 
@@ -222,7 +222,9 @@ ADJUSTED CALM AMBITIOUS COMPETITIVE SOCIABLE DIRECT HOSTILE CARELESS IGNORANT IN
 
 #### DISLIKES 😞  
 
-DOGS MEDIA CNN GERMANS MEXICANS IMMIGRANTS SHITHOLE COUNTRIES UNATTRACTIVE WOMEN BLACKS SUSHI HOT-DOGS ALCOHOL FRUIT CHRISTMAS PARTIES LIBERALS 
+DOGS MEDIA CNN GERMANS MEXICANS IMMIGRANTS SHITHOLE COUNTRIES UNATTRACTIVE WOMEN BLACKS SUSHI HOT-DOGS ALCOHOL FRUIT CHRISTMAS PARTIES LIBERALS
 
 #### WANTS 🥺
 BE HEALTHY GROW A TREE BUILD TRUMP AIRPORT HAVE A TASTE DO A HARLEM SHAKE IN CONGRESS TO GOLF MORE OFTEN WIN ALL THE COURT SUITS
+
+🧙Hocus-pocus!
