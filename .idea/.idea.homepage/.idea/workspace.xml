@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a80e5fa-7b1a-401a-b749-3ea8e712f9f1" name="Default Changelist" comment="" />
+    <list default="true" id="9a80e5fa-7b1a-401a-b749-3ea8e712f9f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +15,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1109">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="266">
+              <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#6966#6973#0" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#p#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#8494#8501#0" expanded="true" />
+                <element signature="e#13999#14006#0" expanded="true" />
+                <element signature="e#14329#14336#0" expanded="true" />
+                <element signature="e#14700#14707#0" expanded="true" />
+                <element signature="e#14977#14984#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,7 +35,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="patch/content/primary" />
+        <entry key="$PROJECT_DIR$" value="patch/content/secondary" />
       </map>
     </option>
   </component>
@@ -101,7 +103,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1127000" />
+    <option name="totallyTimeSpent" value="1639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,15 +163,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1109">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="80" column="34" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#6966#6973#0" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8494#8501#0" expanded="true" />
+            <element signature="e#13999#14006#0" expanded="true" />
+            <element signature="e#14329#14336#0" expanded="true" />
+            <element signature="e#14700#14707#0" expanded="true" />
+            <element signature="e#14977#14984#0" expanded="true" />
           </folding>
         </state>
       </provider>
